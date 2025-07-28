@@ -1,0 +1,160 @@
+{
+    "outline": [
+        {
+            "level": "H3",
+            "text": "1. A sample input PDF  (e.g., sample.pdf )",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "2. A sample ground truth output  (sample.json ) for format clarity",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "3. Sample Dockerfile",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "4. Sample Solution",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "1. Git Project with a working Dockerfile in the root director and",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "2. A working Dockerfile",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "3. All dependencies installed within the container",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "4. A README.md  that explains:",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "1B.",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "2. Document Collection : 3-10 related PDFs Persona Definition : Role",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "3. Job-to-be-Done : Concrete task the persona needs to accomplish",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "1. Metadata:",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "2. Extracted Section:",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "3. Sub-section Analysis:",
+            "page": 8
+        }
+    ],
+    "links": [
+        {
+            "section_idx": 0,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 1,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 2,
+            "related_sections": [
+                5
+            ],
+            "scores": [
+                0.8802173137664795
+            ]
+        },
+        {
+            "section_idx": 3,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 4,
+            "related_sections": [
+                5
+            ],
+            "scores": [
+                0.674778163433075
+            ]
+        },
+        {
+            "section_idx": 5,
+            "related_sections": [
+                2,
+                4
+            ],
+            "scores": [
+                0.8802173137664795,
+                0.674778163433075
+            ]
+        },
+        {
+            "section_idx": 6,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 7,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 8,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 9,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 10,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 11,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 12,
+            "related_sections": [],
+            "scores": []
+        },
+        {
+            "section_idx": 13,
+            "related_sections": [],
+            "scores": []
+        }
+    ]
+}
